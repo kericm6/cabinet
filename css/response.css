@@ -2,7 +2,12 @@
     * {
         font-size: 13px;
     }
-
+   .bloc_page header .container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
     .bloc_page header {
         height: 40vh;
         background-position: right;
